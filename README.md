@@ -1,10 +1,38 @@
 - 👋 Hi, I’m @SaliloYashini
-- 👀 I’m interested in ...Computer programming 
-- 🌱 I’m currently learning ...Coding language 
-- 💞️ I’m looking to collaborate on ...My New project
-- 📫 How to reach me ...My contact information 
-- 😄 Pronouns: ...I have a dog
-- ⚡ Fun fact: ...Tech is new magic
+ # 
+
+💻 Front-End Developer (React & JavaScript)  
+🚀 Passionate about building interactive and user-friendly web apps  
+📍 Based in Zambia  
+
+## 🔧 Tech Stack
+- JavaScript (ES6+)
+- React
+- HTML5 & CSS3
+- Git & GitHub
+
+## 📌 Featured Projects
+
+### 🧮 Calculator App
+A clean and responsive calculator built with JavaScript.
+- Handles basic operations
+- Interactive UI
+- Mobile-friendly
+
+### 🎴 Card Game System
+Custom card game logic with rule-based gameplay.
+- Turn management system
+- Custom rules (Ace, 8, Jack behaviors)
+- Scalable game architecture
+
+### 📖 Story Platform (React)
+Dynamic content platform for stories and creative content.
+- Component-based structure
+- Reusable UI elements
+- Planned backend integration
+
+## 📫 Contact Me
+- LinkedIn: (https://www.linkedin.com/in/ernest-yashini-32a759274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!---
 SaliloYashini/SaliloYashini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
